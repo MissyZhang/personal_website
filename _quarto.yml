@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Missy Zhang"
@@ -8,12 +9,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - portfolio.qmd
       - contact.qmd
+      - href: Missy Zhang_resume(DS).pdf
+        text: Resume
 
 format:
   html:
-    theme: cosmo
+    theme: morph
     css: styles.css
     toc: true
     

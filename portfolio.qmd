@@ -1,0 +1,8 @@
+---
+title: "Portfolio"
+---
+
+Some of the data science projects that I have compleleteld include:
+
+ - [tea tasting test](https://github.com/MissyZhang/tea_tasting), which is an R project about
+

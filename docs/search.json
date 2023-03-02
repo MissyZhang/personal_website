@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "You can email me at mengze.zhang@mail.utoronto.ca"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my site",
+    "section": "",
+    "text": "I am a Bachelor of Information student at the University of Toronto."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Some of the data science projects that I have compleleteld include:\n\ntea tasting test, which is an R project about"
+  }
+]
