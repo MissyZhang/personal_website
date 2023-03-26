@@ -11,13 +11,13 @@
     "href": "index.html",
     "title": "Welcome to my site",
     "section": "",
-    "text": "I am a Bachelor of Information student at the University of Toronto."
+    "text": "Hi, I’m Missy Zhang, a Bachelor of Information student at the University of Toronto. As a emerging data scientist, I am passionate about leveraging data to drive insights and make informed decisions. Throughout my academic journey, I have honed my skills in data analysis, statistics, and programming languages such as Python and R.\nIn addition to my coursework, I have participated in various data-related projects, including analyzing factor combination that affects innovation performance in old industrial bases in China, analyzing crime rate data in Toronto neighborhoods, and designing data visualizations to communicate complex information. I am also actively involved in the university’s data science community, attending data science hackathons and networking events to expand my knowledge and connect with like-minded individuals.\nAs I move towards the next chapter of my career, I am eager to apply my skills and knowledge in a data science role. I am excited about the opportunities to work with big data, build predictive models, and derive insights that can help businesses make better decisions. Thank you for considering my portfolio, and I look forward to discussing potential opportunities with you."
   },
   {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Some of the data science projects that I have compleleteld include:\n\ntea tasting test, which is an R project about"
+    "text": "Some of the data science projects that I have compleleteld include:\n\nTotonto Crime Data Analysis, which is an R project that analyzed crime rate data in Toronto neighborhoods obtained from the Toronto Police Service Annual Statistical Report (ASR) between the years 2017 and 2021.\nAnalysis of Happiness in the America post COVID-19, which explores the US GSS 2021 data to better understand factors that may affect American’s level of happiness post COVID-19 using R.\nOld Industrial Bases Innovation Analysis, which examined combination of factors affecting the innovation performance of old industrial bases in 100 cities in China. We used R, SPSS, Stata, and Qualitative Comparative Analysis (QCA) tool for this project.\nEffectiveness and Visibility in Data Visualization, which is a report on how to improve the communication of data through the use of effective graph design and the identification and mitigation of potential biases in mapping."
   }
 ]
