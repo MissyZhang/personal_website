@@ -4,5 +4,10 @@ title: "Portfolio"
 
 Some of the data science projects that I have compleleteld include:
 
- - [tea tasting test](https://github.com/MissyZhang/tea_tasting), which is an R project about
+ - [Totonto Crime Data Analysis](https://github.com/MissyZhang/Crime_Data_by_Neighbourhood), which is an R project that analyzed crime rate data in Toronto neighborhoods obtained from the Toronto Police Service Annual Statistical Report (ASR) between the years 2017 and 2021.
 
+ - [Analysis of Happiness in the America post COVID-19](https://github.com/julieenguyennn/An-Analysis-of-Happiness-in-the-America-post-COVID-19), which explores the US GSS 2021 data to better understand factors that may affect American's level of happiness post COVID-19 using R.
+ 
+ - Old Industrial Bases Innovation Analysis, which examined combination of factors affecting the innovation performance of old industrial bases in 100 cities in China. We used R, SPSS, Stata, and Qualitative Comparative Analysis (QCA) tool for this project.
+ 
+ - [Effectiveness and Visibility in Data Visualization](https://github.com/julieenguyennn/An-Analysis-of-Happiness-in-the-America-post-COVID-19), which is a report on how to improve the communication of data through the use of effective graph design and the identification and mitigation of potential biases in mapping.
