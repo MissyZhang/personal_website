@@ -13,5 +13,5 @@ Some of the data science projects that I have compleleteld include:
  - [Effectiveness and Visibility in Data Visualization](https://github.com/MissyZhang/Effectiveness-and-Visibility-in-Data-Visualization), which is a report on how to improve the communication of data through the use of effective graph design and the identification and mitigation of potential biases in mapping.
  
  
- 
+  - [Trends of Work-related Injury Rate in Canada](https://github.com/MissyZhang/occupational_injury), which is a report investigating whether and how work-related injury rate has decreased in different industries in Canada as time passed through modelling.
 
